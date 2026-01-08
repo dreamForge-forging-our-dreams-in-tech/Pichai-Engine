@@ -11,6 +11,6 @@
         "sidePanel"
     ],
     "side_panel": {
-        "default_path": "sidepanel.html"
+        "default_path": "sidebar.html"
     }
 }
