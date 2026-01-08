@@ -8,5 +8,11 @@
     ],
     "side_panel": {
         "default_path": "sidebar.html"
+    },
+    "background": {
+    "service_worker": "extensionButton.js"
+  },
+    "action": {
+        "default_title": "Click to open the editor."
     }
 }
