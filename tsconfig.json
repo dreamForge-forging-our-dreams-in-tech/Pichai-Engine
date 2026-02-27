@@ -4,7 +4,7 @@
         "target": "es2018",
         "module": "ESNext",
         "sourceMap": false,
-        "outDir": "./BrowserPage/js",
+        "outDir": "docs/js",
         "types": []
     }
 }
