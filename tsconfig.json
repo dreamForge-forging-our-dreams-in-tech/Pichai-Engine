@@ -1,0 +1,10 @@
+{
+    // Visit https://aka.ms/
+    "compilerOptions": {
+        "target": "es2018",
+        "module": "ESNext",
+        "sourceMap": false,
+        "outDir": "./BrowserPage/js",
+        "types": []
+    }
+}
